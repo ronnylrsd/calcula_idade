@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calcular Idade</string>
+    <string name="day">Dia: </string>
+    <string name="month">Mês:</string>
+    <string name="year">Ano: </string>
+    <string name="calculate">Calcular</string>
+    <string name="age_result">Idade: %s anos de idade.</string>
+</resources>
